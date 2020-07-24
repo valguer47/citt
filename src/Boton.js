@@ -27,7 +27,7 @@ class Boton extends React.Component {
         return (
             <div>
                 <div>
-                    <button className="boton" onClick={() => alert('Esto es una alerta...')}>
+                    <button className="boton" onClick={() => alert('wena cabres...')}>
                         Botón
                     </button>
                 </div>
